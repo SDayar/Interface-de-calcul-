@@ -1,0 +1,11 @@
+C:\Users\sdaya\OneDrive\Documents\Projet C#\calculatrice\bin\Debug\calculatrice.exe.config
+C:\Users\sdaya\OneDrive\Documents\Projet C#\calculatrice\bin\Debug\calculatrice.exe
+C:\Users\sdaya\OneDrive\Documents\Projet C#\calculatrice\bin\Debug\calculatrice.pdb
+C:\Users\sdaya\OneDrive\Documents\Projet C#\calculatrice\obj\Debug\calculatrice.csproj.AssemblyReference.cache
+C:\Users\sdaya\OneDrive\Documents\Projet C#\calculatrice\obj\Debug\calculatrice.csproj.SuggestedBindingRedirects.cache
+C:\Users\sdaya\OneDrive\Documents\Projet C#\calculatrice\obj\Debug\calculatrice.Form1.resources
+C:\Users\sdaya\OneDrive\Documents\Projet C#\calculatrice\obj\Debug\calculatrice.Properties.Resources.resources
+C:\Users\sdaya\OneDrive\Documents\Projet C#\calculatrice\obj\Debug\calculatrice.csproj.GenerateResource.cache
+C:\Users\sdaya\OneDrive\Documents\Projet C#\calculatrice\obj\Debug\calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\sdaya\OneDrive\Documents\Projet C#\calculatrice\obj\Debug\calculatrice.exe
+C:\Users\sdaya\OneDrive\Documents\Projet C#\calculatrice\obj\Debug\calculatrice.pdb
